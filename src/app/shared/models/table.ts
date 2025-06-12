@@ -2,7 +2,7 @@ export enum NetInterface {
 	Ethernet = 'Подключение Ethernet',
 	Guest = 'Гостевая сеть',
 	Home = 'Домашняя сеть',
-	Wifi = 'Подключение WifFi'
+	Wifi = 'Подключение WiFi'
 }
 
 export type TableRoute = {

@@ -52,14 +52,14 @@ export const ROUTES_MOCK: TableRoute[] = [
 	},
 	{
 		uuid: 'fb2a0e87-f131-405b-99c9-ea164510c62c',
-		address: '193.0.172.3',
+		address: '192.168.2.10',
 		mask: '24',
 		gateway: '193.0.172.1',
 		interface: NetInterface.Ethernet
 	},
 	{
 		uuid: 'fea11aec-ab8c-4ff9-b1ab-e424994ab13e',
-		address: '192.168.102.32',
+		address: '192.168.2.5',
 		mask: '28',
 		gateway: '192.168.102.1',
 		interface: NetInterface.Wifi
